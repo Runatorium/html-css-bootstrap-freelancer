@@ -1,0 +1,14 @@
+@media all and (min-width: 576px){
+    .col{
+        align-self: center;
+        width: 80%;
+    }
+}
+
+
+@media all and (min-width: 1024px){
+    .col{
+        align-self: center;
+        width: 70%;
+    }
+}
