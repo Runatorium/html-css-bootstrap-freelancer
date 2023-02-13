@@ -3,7 +3,8 @@
 }
 
 .row{
-    justify-content: space-between;    
+    justify-content: space-between;  
+     
 }
 
 .col-4{
@@ -26,12 +27,16 @@ header{
     background-color: rgb(43, 10, 17);
 }
 
+.bottomsection .row{
+    justify-content: center;
+}
 
 .jumbotron .row{
     justify-content: center;
 }
 
 .col{
+    padding: 0px; 
     border-style: dashed;
     border-color: rgb(89, 255, 0);
 }
