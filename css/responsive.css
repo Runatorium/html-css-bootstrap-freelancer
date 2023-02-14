@@ -4,12 +4,7 @@
     background-color: blue;
 }
 
-
-.col-8{
-    background-color: aqua;
-}
-
-
-.container{
-    background-color: beige;
+.ms_img_jumbotron{
+    width: 50%;
+    height: 50%;
 }
