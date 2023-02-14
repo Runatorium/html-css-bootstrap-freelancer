@@ -1,14 +1,15 @@
-@media all and (min-width: 576px){
-    .col{
-        align-self: center;
-        width: 80%;
-    }
+
+.navbar{
+    width: 80%;
+    background-color: blue;
 }
 
 
-@media all and (min-width: 1024px){
-    .col{
-        align-self: center;
-        width: 70%;
-    }
+.col-8{
+    background-color: aqua;
+}
+
+
+.container{
+    background-color: beige;
 }
